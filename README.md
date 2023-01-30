@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/ad52ac28-15de-4a7c-a40e-e15d1872510f.svg)](https://wakatime.com/@ad52ac28-15de-4a7c-a40e-e15d1872510f)
+
 Hi I'm Skies!
 
 ## About Me
