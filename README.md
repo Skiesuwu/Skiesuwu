@@ -1,6 +1,4 @@
 # I'm Skies
-[![Discord Presence](https://lanyard.cnrad.dev/api/839403357546217483)](https://discord.com/users/839403357546217483)
-
 
 ![Skies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skiesuwu&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skiesuwu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
